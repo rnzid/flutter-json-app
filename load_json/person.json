@@ -1,0 +1,37 @@
+[{
+        "Name": "Ranjit Dangol",
+        "age": "23",
+        "height": "5.9",
+        "gender": "male",
+        "hair_color": "black"
+    },
+    {
+        "Name": "sujita Dangol",
+        "age": "22",
+        "height": "5",
+        "gender": "female",
+        "hair_color": "black"
+    },
+    {
+        "Name": "Rachana Dangol",
+        "age": "20",
+        "height": "5.1",
+        "gender": "female",
+        "hair_color": "black"
+    },
+    {
+        "Name": "alex tar",
+        "age": "25",
+        "height": "5.9",
+        "gender": "male",
+        "hair_color": "brown"
+    },
+    {
+        "Name": "Reevena tandon",
+        "age": "35",
+        "height": "5.4",
+        "gender": "female",
+        "hair_color": "black"
+    }
+
+]
